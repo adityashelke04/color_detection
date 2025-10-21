@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Generated test images and outputs
+test_image*.jpg
+test_image*.png
+yellow_detected.jpg
+yellow_output.jpg
+pillow_output.jpg
+my_output.jpg
+output.jpg
+*_output.*
+comparison_result.jpg
+annotated_output.jpg
+highlighted_output.jpg
+example*.jpg
+
+# OS
+.DS_Store
+Thumbs.db

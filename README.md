@@ -1,4 +1,11 @@
-# color_detection
-Yellow Color detection using OpenCV
-Libraries used OpenCV, numpy and Pillow
-Util Function - Used to get the colorspace intervals
+# Color Detection
+
+Yellow color detection implementation using OpenCV.
+
+## Libraries
+- OpenCV
+- NumPy
+- Pillow
+
+## Features
+Utility function for retrieving colorspace intervals
